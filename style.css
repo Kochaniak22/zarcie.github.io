@@ -1,0 +1,16 @@
+body{
+ background: rgb(124, 38, 52);
+}
+
+b
+
+{color: rgb(30, 80, 17);
+     font-weight: bold;
+font-size: x-large;
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+img
+{
+width: 700px;
+content: url(x.jpeg);
+}
